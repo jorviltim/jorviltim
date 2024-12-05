@@ -9,6 +9,8 @@
 
 ### Welcome to my profile! / ¡Bienvenido a mi perfil!
 
+![Texto alternativo]([URL-o-ruta-de-la-imagen](https://media.licdn.com/dms/image/v2/D4D16AQHsz3GXklpT3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732018281791?e=1738800000&v=beta&t=VmgjV90-UMhNVcJPKOp0FNGZDBND4M3uFgo_A1EZJHw))
+
 I’m Jorge Vila, an industrial automation enthusiast with expertise in programming PLCs, robotics, and Industry 4.0 solutions. I aim to make industrial programming more accessible and straightforward for everyone.  
 Soy Jorge Vila, un apasionado de la automatización industrial con experiencia en programación de PLCs, robótica y soluciones de la Industria 4.0. Mi objetivo es hacer que la programación industrial sea más accesible y sencilla para todos.
 
