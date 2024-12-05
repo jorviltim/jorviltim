@@ -9,8 +9,7 @@
 
 ### Welcome to my profile! / ¡Bienvenido a mi perfil!
 
-![Jorge Vila](https://robodk.com/doc/es/Basic-Guide_files/img4.png)
-
+<img src="[images/profile.jpg](https://robodk.com/doc/es/Basic-Guide_files/img4.png)" alt="ROBODK" width="300" />
 
 I’m Jorge Vila, an industrial automation enthusiast with expertise in programming PLCs, robotics, and Industry 4.0 solutions. I aim to make industrial programming more accessible and straightforward for everyone.  
 Soy Jorge Vila, un apasionado de la automatización industrial con experiencia en programación de PLCs, robótica y soluciones de la Industria 4.0. Mi objetivo es hacer que la programación industrial sea más accesible y sencilla para todos.
