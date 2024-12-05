@@ -9,8 +9,7 @@
 
 ### Welcome to my profile! / ¡Bienvenido a mi perfil!
 
-<img src="https://robodk.com/doc/es/Basic-Guide_files/img4.png" alt="ROBODK" width="200" />
-<img src="https://docs.factoryio.com/getting-started/img/overview.jpg" alt="ROBODK" width="200" />
+<img src="https://robodk.com/doc/es/Basic-Guide_files/img4.png" alt="ROBODK" width="200" /> <img src="https://docs.factoryio.com/getting-started/img/overview.jpg" alt="ROBODK" width="200" />
 
 <img src="https://factoryio.com/_ipx/h_400&q_90&fit_inside/img/banner-fio-fp.png" alt="ROBODK" width="500" />
 
