@@ -58,9 +58,8 @@ Soy Jorge Vila, un apasionado de la automatización industrial con experiencia e
     Cómo crear tutoriales efectivos para temas técnicos.
 
 - 📫 **How to reach me / Cómo contactarme:**
-  - [Email me / Envíame un correo](mailto:your-email@example.com)
-  - LinkedIn: [Your LinkedIn Profile / Tu perfil de LinkedIn](https://www.linkedin.com/in/your-profile)
-  - Telegram Blog: [Industrial Automation Hub / Centro de Automatización Industrial](https://t.me/your-channel)
+  - [Email me / Envíame un correo](mailto:jorgevilatimor@gmail.com)
+  - LinkedIn: [Your LinkedIn Profile / Tu perfil de LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jorge-vila-timor-a57691116/))
 
 - 😄 **Pronouns / Pronombres:** He/Him / Él/Él
 
