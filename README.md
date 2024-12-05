@@ -2,9 +2,6 @@
 
 ## Hi there 👋 / ¡Hola! 👋
 
-**jorviltim/jorviltim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-**jorviltim/jorviltim** es un ✨ _repositorio especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
-
 ---
 
 ### Welcome to my profile! / ¡Bienvenido a mi perfil!
