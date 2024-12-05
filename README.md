@@ -2,7 +2,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)]([yjtuktuktuukytkyukyuky](https://www.linkedin.com/in/jorge-vila-timor-a57691116)) [![Gmail Badge](https://img.shields.io/badge/-jorgevilatimor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgevilatimor@gmail.com)](mailto:jorgevilatimor@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-ARSPLC-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@ARSPLC)](https://www.youtube.com/@ARSPLC)
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%Vila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)]([yjtuktuktuukytkyukyuky](https://www.linkedin.com/in/jorge-vila-timor-a57691116)) [![Gmail Badge](https://img.shields.io/badge/-jorgevilatimor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgevilatimor@gmail.com)](mailto:jorgevilatimor@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-ARSPLC-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@ARSPLC)](https://www.youtube.com/@ARSPLC)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 ## Hi there 👋 / ¡Hola! 👋
